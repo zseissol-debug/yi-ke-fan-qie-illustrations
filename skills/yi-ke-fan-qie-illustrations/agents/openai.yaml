@@ -1,0 +1,6 @@
+interface:
+  display_name: "yi-ke-fan-qie-illustrations（一颗番茄·正文配图）"
+  short_description: "为一颗番茄账号生成统一、有辨识度的多模式中文知识配图"
+  default_prompt: "使用 $yi-ke-fan-qie-illustrations 为这段内容设计并生成一张正文配图。"
+policy:
+  allow_implicit_invocation: true
